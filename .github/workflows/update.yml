@@ -32,8 +32,8 @@ jobs:
 
       - name: Add
         run: |
-          git config --global user.email "dhruvjainpenny@gmail.com"
-          git config --global user.name "Dhruv Jain"
+          git config --global user.email "1119696785@qq.com"
+          git config --global user.name "artiely"
           git status
           git add .
           git commit -m ":package: Update Downloads"
