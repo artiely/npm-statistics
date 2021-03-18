@@ -8,17 +8,26 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                                                                                                                 | Downloads  |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| [@cleartax/zoids](https://www.npmjs.com/package/@cleartax/zoids)                                                                     | 31846      |
-| [post-merge-install](https://www.npmjs.com/package/post-merge-install)                                                               | 27952      |
-| [@cleartax/apollo-server-plugin-introspection-auth](https://www.npmjs.com/package/@cleartax/apollo-server-plugin-introspection-auth) | 17028      |
-| [engines-ok](https://www.npmjs.com/package/engines-ok)                                                                               | 14811      |
-| [install-types](https://www.npmjs.com/package/install-types)                                                                         | 14346      |
-| [@cleartax/eslint-config](https://www.npmjs.com/package/@cleartax/eslint-config)                                                     | 11000      |
-| [props-validator](https://www.npmjs.com/package/props-validator)                                                                     | 4572       |
-| [pivotal-flow](https://www.npmjs.com/package/pivotal-flow)                                                                           | 4150       |
-| **Sum**                                                                                                                              | **125705** |
+| Name                                                                                                 | Downloads |
+| ---------------------------------------------------------------------------------------------------- | --------- |
+| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 3353      |
+| [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 1534      |
+| [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 938       |
+| [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 919       |
+| [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 781       |
+| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 725       |
+| [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 428       |
+| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 393       |
+| [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 357       |
+| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 345       |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 340       |
+| [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 315       |
+| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 252       |
+| [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 208       |
+| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 180       |
+| [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 157       |
+| [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 134       |
+| **Sum**                                                                                              | **11359** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
