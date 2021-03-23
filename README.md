@@ -10,24 +10,24 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads |
 | ---------------------------------------------------------------------------------------------------- | --------- |
-| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 3353      |
-| [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 1575      |
-| [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 951       |
+| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 3390      |
+| [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 1595      |
+| [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 957       |
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 924       |
-| [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 802       |
-| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 744       |
+| [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 812       |
+| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 753       |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 435       |
 | [image-blur](https://www.npmjs.com/package/image-blur)                                               | 398       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 360       |
 | [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 358       |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 345       |
-| [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 328       |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 349       |
+| [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 332       |
 | [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 256       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 213       |
-| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 181       |
-| [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 161       |
-| [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 138       |
-| **Sum**                                                                                              | **11522** |
+| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 183       |
+| [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 163       |
+| [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 139       |
+| **Sum**                                                                                              | **11617** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
