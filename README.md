@@ -10,16 +10,16 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads |
 | ---------------------------------------------------------------------------------------------------- | --------- |
-| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 3887      |
+| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 3889      |
 | [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 1694      |
 | [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 991       |
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 981       |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 867       |
-| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 801       |
+| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 802       |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 466       |
 | [image-blur](https://www.npmjs.com/package/image-blur)                                               | 461       |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 405       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 403       |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 401       |
 | [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 387       |
 | [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 364       |
 | [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 285       |
@@ -27,7 +27,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 195       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 177       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 161       |
-| **Sum**                                                                                              | **12744** |
+| **Sum**                                                                                              | **12751** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
