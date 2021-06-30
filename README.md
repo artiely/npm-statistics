@@ -16,18 +16,18 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 999       |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 896       |
 | [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 829       |
+| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 494       |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 484       |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 482       |
-| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 476       |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 483       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 415       |
 | [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 404       |
-| [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 385       |
-| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 296       |
+| [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 387       |
+| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 314       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 250       |
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 204       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 187       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 167       |
-| **Sum**                                                                                              | **13234** |
+| **Sum**                                                                                              | **13273** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
