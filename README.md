@@ -15,7 +15,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1011      |
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1000      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 896       |
-| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 830       |
+| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 831       |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 502       |
 | [image-blur](https://www.npmjs.com/package/image-blur)                                               | 494       |
 | [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 491       |
@@ -27,7 +27,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 204       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 187       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 167       |
-| **Sum**                                                                                              | **13344** |
+| **Sum**                                                                                              | **13345** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
