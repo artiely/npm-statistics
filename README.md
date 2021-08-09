@@ -18,16 +18,16 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 945       |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 544       |
 | [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 534       |
-| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 531       |
+| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 532       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 467       |
-| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 449       |
+| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 450       |
 | [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 425       |
 | [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 345       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 281       |
-| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 237       |
+| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 238       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 217       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 194       |
-| **Sum**                                                                                              | **14692** |
+| **Sum**                                                                                              | **14695** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
