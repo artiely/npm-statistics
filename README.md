@@ -10,13 +10,13 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads |
 | ---------------------------------------------------------------------------------------------------- | --------- |
-| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 4425      |
-| [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 2133      |
+| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 4427      |
+| [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 2134      |
 | [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 1538      |
 | [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1093      |
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1067      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1024      |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 608       |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 609       |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 596       |
 | [image-blur](https://www.npmjs.com/package/image-blur)                                               | 568       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 490       |
@@ -27,7 +27,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 280       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 237       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 204       |
-| **Sum**                                                                                              | **15877** |
+| **Sum**                                                                                              | **15881** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
