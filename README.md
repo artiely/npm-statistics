@@ -21,15 +21,15 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [image-blur](https://www.npmjs.com/package/image-blur)                                               | 633       |
 | [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 557       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 542       |
-| [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 517       |
-| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 402       |
+| [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 518       |
+| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 403       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 338       |
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 333       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 282       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 235       |
 | [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 171       |
-| [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 52        |
-| **Sum**                                                                                              | **17956** |
+| [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 53        |
+| **Sum**                                                                                              | **17959** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
