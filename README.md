@@ -8,28 +8,18 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                                                                                 | Downloads |
-| ---------------------------------------------------------------------------------------------------- | --------- |
-| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 5012      |
-| [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 2363      |
-| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 1684      |
-| [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1224      |
-| [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1214      |
-| [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1148      |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 910       |
-| [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 702       |
-| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 649       |
-| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 582       |
-| [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 557       |
-| [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 548       |
-| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 414       |
-| [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 353       |
-| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 345       |
-| [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 294       |
-| [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 242       |
-| [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 195       |
-| [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 61        |
-| **Sum**                                                                                              | **18497** |
+| Name                                                 | Downloads                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [message](https://www.npmjs.com/package/message)     | jOOQ; SQL [insert into "public"."download_count" ("package_name", "date", "count") values (?, cast(? as date), ?)]; ERROR: could not access status of transaction 0
+  Detail: Could not write to file "pg_subtrans/3DF8" at offset 81920: No space left on device.; nested exception is org.postgresql.util.PSQLException: ERROR: could not access status of transaction 0
+  Detail: Could not write to file "pg_subtrans/3DF8" at offset 81920: No space left on device.                                                                                    |
+| [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [path](https://www.npmjs.com/package/path)           | /npm-stat/api/download-counts                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| [status](https://www.npmjs.com/package/status)       | 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| [timestamp](https://www.npmjs.com/package/timestamp) | 2022-05-05T01:52:40.267+0000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Sum**                                              | **jOOQ; SQL [insert into "public"."download_count" ("package_name", "date", "count") values (?, cast(? as date), ?)]; ERROR: could not access status of transaction 0
+  Detail: Could not write to file "pg_subtrans/3DF8" at offset 81920: No space left on device.; nested exception is org.postgresql.util.PSQLException: ERROR: could not access status of transaction 0
+  Detail: Could not write to file "pg_subtrans/3DF8" at offset 81920: No space left on device.Internal Server Error/npm-stat/api/download-counts02022-05-05T01:52:40.267+0000** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
