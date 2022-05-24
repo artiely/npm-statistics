@@ -10,26 +10,26 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads |
 | ---------------------------------------------------------------------------------------------------- | --------- |
-| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 5222      |
+| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 5223      |
 | [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 2410      |
 | [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 1728      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1262      |
-| [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1242      |
-| [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1170      |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 928       |
-| [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 739       |
+| [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1244      |
+| [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1174      |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 929       |
+| [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 741       |
 | [image-blur](https://www.npmjs.com/package/image-blur)                                               | 679       |
-| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 607       |
-| [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 580       |
+| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 611       |
+| [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 582       |
 | [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 570       |
 | [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 432       |
+| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 366       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 364       |
-| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 356       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 306       |
-| [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 251       |
-| [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 207       |
+| [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 252       |
+| [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 208       |
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 74        |
-| **Sum**                                                                                              | **19127** |
+| **Sum**                                                                                              | **19155** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
