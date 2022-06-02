@@ -10,26 +10,26 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads |
 | ---------------------------------------------------------------------------------------------------- | --------- |
-| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 5225      |
+| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 5262      |
 | [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 2455      |
 | [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 1734      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1271      |
 | [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1250      |
-| [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1177      |
+| [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1181      |
 | [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 967       |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 743       |
-| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 681       |
+| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 685       |
 | [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 613       |
-| [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 584       |
+| [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 587       |
 | [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 575       |
-| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 433       |
+| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 435       |
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 367       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 365       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 312       |
-| [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 258       |
+| [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 259       |
 | [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 222       |
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 75        |
-| **Sum**                                                                                              | **19307** |
+| **Sum**                                                                                              | **19358** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
