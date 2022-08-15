@@ -18,7 +18,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1194      |
 | [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1017      |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 764       |
-| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 700       |
+| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 701       |
 | [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 626       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 598       |
 | [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 596       |
@@ -26,10 +26,10 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 382       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 381       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 329       |
-| [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 272       |
+| [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 273       |
 | [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 255       |
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 89        |
-| **Sum**                                                                                              | **19900** |
+| **Sum**                                                                                              | **19902** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
