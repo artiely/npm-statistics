@@ -10,7 +10,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads |
 | ---------------------------------------------------------------------------------------------------- | --------- |
-| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 5398      |
+| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 5399      |
 | [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 2561      |
 | [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 1777      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1311      |
@@ -28,8 +28,8 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 331       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 276       |
 | [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 258       |
-| [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 90        |
-| **Sum**                                                                                              | **20024** |
+| [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 91        |
+| **Sum**                                                                                              | **20026** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
