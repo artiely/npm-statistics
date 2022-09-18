@@ -16,20 +16,20 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1355      |
 | [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1297      |
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1220      |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1033      |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1034      |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 790       |
 | [image-blur](https://www.npmjs.com/package/image-blur)                                               | 720       |
 | [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 648       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 619       |
 | [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 614       |
-| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 463       |
+| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 465       |
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 398       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 391       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 349       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 285       |
 | [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 280       |
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 94        |
-| **Sum**                                                                                              | **20473** |
+| **Sum**                                                                                              | **20476** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
