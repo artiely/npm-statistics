@@ -18,18 +18,18 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1256      |
 | [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1103      |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 825       |
-| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 751       |
-| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 674       |
+| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 752       |
+| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 678       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 647       |
 | [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 643       |
 | [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 487       |
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 426       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 415       |
-| [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 374       |
+| [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 375       |
 | [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 331       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 308       |
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 112       |
-| **Sum**                                                                                              | **21386** |
+| **Sum**                                                                                              | **21392** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
