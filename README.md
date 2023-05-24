@@ -26,14 +26,14 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 467       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 453       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 420       |
+| [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 409       |
 | [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 389       |
+| [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 368       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 344       |
-| [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 337       |
 | [dm-byte](https://www.npmjs.com/package/dm-byte)                                                     | 303       |
-| [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 234       |
 | [dm-apps](https://www.npmjs.com/package/dm-apps)                                                     | 194       |
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 136       |
-| **Sum**                                                                                              | **24405** |
+| **Sum**                                                                                              | **24611** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
