@@ -22,8 +22,8 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 747       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 712       |
 | [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 704       |
-| [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 674       |
-| [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 604       |
+| [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 676       |
+| [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 606       |
 | [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 526       |
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 468       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 453       |
@@ -33,7 +33,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [dm-byte](https://www.npmjs.com/package/dm-byte)                                                     | 306       |
 | [dm-apps](https://www.npmjs.com/package/dm-apps)                                                     | 194       |
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 138       |
-| **Sum**                                                                                              | **25125** |
+| **Sum**                                                                                              | **25129** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
