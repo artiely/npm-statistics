@@ -11,19 +11,19 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | Name                                                                                                 | Downloads |
 | ---------------------------------------------------------------------------------------------------- | --------- |
 | [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 6354      |
-| [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 2935      |
-| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2001      |
+| [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 2942      |
+| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2003      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1562      |
-| [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1433      |
-| [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1329      |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1327      |
-| [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 993       |
-| [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 921       |
-| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 826       |
-| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 751       |
-| [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 719       |
+| [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1434      |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1340      |
+| [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1330      |
+| [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 998       |
+| [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 922       |
+| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 827       |
+| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 753       |
+| [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 720       |
 | [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 709       |
-| [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 657       |
+| [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 658       |
 | [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 533       |
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 471       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 458       |
@@ -32,9 +32,9 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 349       |
 | [dm-byte](https://www.npmjs.com/package/dm-byte)                                                     | 309       |
 | [dm-apps](https://www.npmjs.com/package/dm-apps)                                                     | 197       |
+| [kuaishou-danmaku](https://www.npmjs.com/package/kuaishou-danmaku)                                   | 159       |
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 143       |
-| [kuaishou-danmaku](https://www.npmjs.com/package/kuaishou-danmaku)                                   | 0         |
-| **Sum**                                                                                              | **25796** |
+| **Sum**                                                                                              | **25990** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
