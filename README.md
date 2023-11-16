@@ -15,27 +15,27 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2097      |
 | [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 1719      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1657      |
-| [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1557      |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1508      |
-| [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1420      |
+| [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1560      |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1509      |
+| [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1423      |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 981       |
-| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 956       |
-| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 865       |
-| [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 863       |
+| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 957       |
+| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 867       |
+| [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 864       |
 | [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 758       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 753       |
-| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 612       |
-| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 585       |
-| [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 522       |
+| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 614       |
+| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 589       |
+| [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 523       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 459       |
 | [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 437       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 407       |
 | [dm-byte](https://www.npmjs.com/package/dm-byte)                                                     | 364       |
 | [kuaishou-danmaku](https://www.npmjs.com/package/kuaishou-danmaku)                                   | 275       |
 | [dm-apps](https://www.npmjs.com/package/dm-apps)                                                     | 243       |
-| [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 164       |
+| [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 165       |
 | [ola-plugin-sass](https://www.npmjs.com/package/ola-plugin-sass)                                     | 95        |
-| **Sum**                                                                                              | **28951** |
+| **Sum**                                                                                              | **28970** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
