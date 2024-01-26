@@ -11,31 +11,31 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | Name                                                                                                 | Downloads |
 | ---------------------------------------------------------------------------------------------------- | --------- |
 | [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 6683      |
-| [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 3088      |
-| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2129      |
+| [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 3108      |
+| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2138      |
 | [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 1770      |
-| [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1693      |
-| [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1588      |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1548      |
+| [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1703      |
+| [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1594      |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1549      |
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1445      |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 1000      |
 | [image-blur](https://www.npmjs.com/package/image-blur)                                               | 993       |
 | [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 892       |
 | [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 889       |
-| [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 770       |
+| [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 774       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 766       |
 | [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 631       |
-| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 602       |
+| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 604       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 532       |
-| [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 471       |
-| [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 455       |
+| [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 473       |
+| [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 458       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 416       |
 | [dm-byte](https://www.npmjs.com/package/dm-byte)                                                     | 381       |
 | [kuaishou-danmaku](https://www.npmjs.com/package/kuaishou-danmaku)                                   | 290       |
 | [dm-apps](https://www.npmjs.com/package/dm-apps)                                                     | 254       |
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 176       |
 | [ola-plugin-sass](https://www.npmjs.com/package/ola-plugin-sass)                                     | 107       |
-| **Sum**                                                                                              | **29569** |
+| **Sum**                                                                                              | **29626** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
