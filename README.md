@@ -15,12 +15,12 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2151      |
 | [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 1794      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1711      |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1618      |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1619      |
 | [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1605      |
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1465      |
-| [tiktok-danmaku](https://www.npmjs.com/package/tiktok-danmaku)                                       | 1183      |
+| [tiktok-danmaku](https://www.npmjs.com/package/tiktok-danmaku)                                       | 1239      |
 | [image-blur](https://www.npmjs.com/package/image-blur)                                               | 1048      |
-| [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 1017      |
+| [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 1021      |
 | [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 902       |
 | [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 901       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 782       |
@@ -37,7 +37,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 184       |
 | [tiktok-danmaku-server](https://www.npmjs.com/package/tiktok-danmaku-server)                         | 123       |
 | [ola-plugin-sass](https://www.npmjs.com/package/ola-plugin-sass)                                     | 112       |
-| **Sum**                                                                                              | **31469** |
+| **Sum**                                                                                              | **31530** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
