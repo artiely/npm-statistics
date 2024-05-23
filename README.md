@@ -10,13 +10,13 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads |
 | ---------------------------------------------------------------------------------------------------- | --------- |
-| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 6923      |
-| [tiktok-danmaku](https://www.npmjs.com/package/tiktok-danmaku)                                       | 3408      |
+| [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 6924      |
+| [tiktok-danmaku](https://www.npmjs.com/package/tiktok-danmaku)                                       | 3409      |
 | [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 3153      |
 | [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2180      |
 | [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 1820      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1740      |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1656      |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1658      |
 | [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1617      |
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1476      |
 | [image-blur](https://www.npmjs.com/package/image-blur)                                               | 1083      |
@@ -32,12 +32,12 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 484       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 430       |
 | [dm-byte](https://www.npmjs.com/package/dm-byte)                                                     | 400       |
-| [kuaishou-danmaku](https://www.npmjs.com/package/kuaishou-danmaku)                                   | 306       |
+| [kuaishou-danmaku](https://www.npmjs.com/package/kuaishou-danmaku)                                   | 307       |
 | [dm-apps](https://www.npmjs.com/package/dm-apps)                                                     | 279       |
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 188       |
-| [tiktok-danmaku-server](https://www.npmjs.com/package/tiktok-danmaku-server)                         | 133       |
+| [tiktok-danmaku-server](https://www.npmjs.com/package/tiktok-danmaku-server)                         | 134       |
 | [ola-plugin-sass](https://www.npmjs.com/package/ola-plugin-sass)                                     | 117       |
-| **Sum**                                                                                              | **34167** |
+| **Sum**                                                                                              | **34173** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
