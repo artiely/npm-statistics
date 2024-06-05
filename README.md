@@ -11,33 +11,33 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | Name                                                                                                 | Downloads |
 | ---------------------------------------------------------------------------------------------------- | --------- |
 | [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 6929      |
-| [tiktok-danmaku](https://www.npmjs.com/package/tiktok-danmaku)                                       | 3467      |
+| [tiktok-danmaku](https://www.npmjs.com/package/tiktok-danmaku)                                       | 3470      |
 | [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 3156      |
-| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2185      |
-| [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 1821      |
+| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2186      |
+| [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 1822      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1744      |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1666      |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1667      |
 | [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1621      |
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1479      |
-| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 1089      |
+| [image-blur](https://www.npmjs.com/package/image-blur)                                               | 1090      |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 1034      |
 | [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 922       |
-| [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 916       |
+| [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 917       |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 795       |
 | [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 794       |
-| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 657       |
+| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 658       |
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 639       |
-| [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 550       |
+| [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 551       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 494       |
 | [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 489       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 433       |
-| [dm-byte](https://www.npmjs.com/package/dm-byte)                                                     | 402       |
-| [kuaishou-danmaku](https://www.npmjs.com/package/kuaishou-danmaku)                                   | 307       |
-| [dm-apps](https://www.npmjs.com/package/dm-apps)                                                     | 281       |
+| [dm-byte](https://www.npmjs.com/package/dm-byte)                                                     | 403       |
+| [kuaishou-danmaku](https://www.npmjs.com/package/kuaishou-danmaku)                                   | 308       |
+| [dm-apps](https://www.npmjs.com/package/dm-apps)                                                     | 282       |
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 190       |
 | [tiktok-danmaku-server](https://www.npmjs.com/package/tiktok-danmaku-server)                         | 135       |
 | [ola-plugin-sass](https://www.npmjs.com/package/ola-plugin-sass)                                     | 118       |
-| **Sum**                                                                                              | **34313** |
+| **Sum**                                                                                              | **34326** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
