@@ -13,8 +13,8 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                                |
 | [path](https://www.npmjs.com/package/path)           | /npm-stat/api/download-counts                                                        |
 | [status](https://www.npmjs.com/package/status)       | 0                                                                                    |
-| [timestamp](https://www.npmjs.com/package/timestamp) | 2024-06-13T00:25:13.044+00:00                                                        |
-| **Sum**                                              | **Internal Server Error/npm-stat/api/download-counts02024-06-13T00:25:13.044+00:00** |
+| [timestamp](https://www.npmjs.com/package/timestamp) | 2024-06-14T00:25:01.923+00:00                                                        |
+| **Sum**                                              | **Internal Server Error/npm-stat/api/download-counts02024-06-14T00:25:01.923+00:00** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
