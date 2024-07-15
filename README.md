@@ -8,13 +8,13 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                                 | Downloads                                                                            |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                                |
-| [path](https://www.npmjs.com/package/path)           | /npm-stat/api/download-counts                                                        |
-| [status](https://www.npmjs.com/package/status)       | 0                                                                                    |
-| [timestamp](https://www.npmjs.com/package/timestamp) | 2024-06-14T00:25:01.923+00:00                                                        |
-| **Sum**                                              | **Internal Server Error/npm-stat/api/download-counts02024-06-14T00:25:01.923+00:00** |
+| Name                                                 | Downloads                                                                   |
+| ---------------------------------------------------- | --------------------------------------------------------------------------- |
+| [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                       |
+| [path](https://www.npmjs.com/package/path)           | /api/download-counts                                                        |
+| [status](https://www.npmjs.com/package/status)       | 0                                                                           |
+| [timestamp](https://www.npmjs.com/package/timestamp) | 2024-07-15T00:28:12.976+00:00                                               |
+| **Sum**                                              | **Internal Server Error/api/download-counts02024-07-15T00:28:12.976+00:00** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
