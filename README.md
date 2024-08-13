@@ -13,7 +13,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 7150      |
 | [tiktok-danmaku](https://www.npmjs.com/package/tiktok-danmaku)                                       | 3978      |
 | [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 3270      |
-| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2251      |
+| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2252      |
 | [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 2174      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1806      |
 | [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1746      |
@@ -37,7 +37,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 199       |
 | [tiktok-danmaku-server](https://www.npmjs.com/package/tiktok-danmaku-server)                         | 156       |
 | [ola-plugin-sass](https://www.npmjs.com/package/ola-plugin-sass)                                     | 128       |
-| **Sum**                                                                                              | **36246** |
+| **Sum**                                                                                              | **36247** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
