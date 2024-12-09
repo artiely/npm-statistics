@@ -35,9 +35,9 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [kuaishou-danmaku](https://www.npmjs.com/package/kuaishou-danmaku)                                   | 362       |
 | [dm-apps](https://www.npmjs.com/package/dm-apps)                                                     | 313       |
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 211       |
-| [tiktok-danmaku-server](https://www.npmjs.com/package/tiktok-danmaku-server)                         | 172       |
+| [tiktok-danmaku-server](https://www.npmjs.com/package/tiktok-danmaku-server)                         | 173       |
 | [ola-plugin-sass](https://www.npmjs.com/package/ola-plugin-sass)                                     | 143       |
-| **Sum**                                                                                              | **37768** |
+| **Sum**                                                                                              | **37769** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
