@@ -11,11 +11,11 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | Name                                                                                                 | Downloads |
 | ---------------------------------------------------------------------------------------------------- | --------- |
 | [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 7284      |
-| [tiktok-danmaku](https://www.npmjs.com/package/tiktok-danmaku)                                       | 4298      |
+| [tiktok-danmaku](https://www.npmjs.com/package/tiktok-danmaku)                                       | 4299      |
 | [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 3382      |
 | [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2316      |
 | [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 2302      |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1933      |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 1934      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1864      |
 | [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1799      |
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1536      |
@@ -37,7 +37,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 211       |
 | [tiktok-danmaku-server](https://www.npmjs.com/package/tiktok-danmaku-server)                         | 175       |
 | [ola-plugin-sass](https://www.npmjs.com/package/ola-plugin-sass)                                     | 143       |
-| **Sum**                                                                                              | **38032** |
+| **Sum**                                                                                              | **38034** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
