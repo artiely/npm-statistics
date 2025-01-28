@@ -12,20 +12,20 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | ---------------------------------------------------------------------------------------------------- | --------- |
 | [quill-vue-mobile](https://www.npmjs.com/package/quill-vue-mobile)                                   | 7383      |
 | [tiktok-danmaku](https://www.npmjs.com/package/tiktok-danmaku)                                       | 4472      |
-| [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 3410      |
-| [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 2339      |
-| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2327      |
-| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 2028      |
+| [vuepress-plugin-auto-front-matter](https://www.npmjs.com/package/vuepress-plugin-auto-front-matter) | 3412      |
+| [douyin-danmaku](https://www.npmjs.com/package/douyin-danmaku)                                       | 2340      |
+| [vuepress-plugin-live2d-cat](https://www.npmjs.com/package/vuepress-plugin-live2d-cat)               | 2329      |
+| [vuepress-plugin-copy-code](https://www.npmjs.com/package/vuepress-plugin-copy-code)                 | 2029      |
 | [vuepress-plugin-valine](https://www.npmjs.com/package/vuepress-plugin-valine)                       | 1888      |
 | [vuepress-theme-antdocs-pro](https://www.npmjs.com/package/vuepress-theme-antdocs-pro)               | 1815      |
 | [tulip-scroll](https://www.npmjs.com/package/tulip-scroll)                                           | 1550      |
 | [image-blur](https://www.npmjs.com/package/image-blur)                                               | 1212      |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 1115      |
-| [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 1049      |
+| [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 1050      |
 | [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 1040      |
-| [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 864       |
-| [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 842       |
-| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 792       |
+| [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 865       |
+| [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 844       |
+| [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 793       |
 | [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 704       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 623       |
 | [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 554       |
@@ -37,7 +37,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 217       |
 | [tiktok-danmaku-server](https://www.npmjs.com/package/tiktok-danmaku-server)                         | 186       |
 | [ola-plugin-sass](https://www.npmjs.com/package/ola-plugin-sass)                                     | 150       |
-| **Sum**                                                                                              | **38765** |
+| **Sum**                                                                                              | **38776** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
