@@ -22,13 +22,13 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [image-blur](https://www.npmjs.com/package/image-blur)                                               | 1226      |
 | [timing-cli](https://www.npmjs.com/package/timing-cli)                                               | 1126      |
 | [bilibili-danmaku](https://www.npmjs.com/package/bilibili-danmaku)                                   | 1063      |
-| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 1053      |
+| [treeplus](https://www.npmjs.com/package/treeplus)                                                   | 1054      |
 | [timing-ui](https://www.npmjs.com/package/timing-ui)                                                 | 871       |
 | [vuepress-theme-koala](https://www.npmjs.com/package/vuepress-theme-koala)                           | 850       |
 | [tool.less](https://www.npmjs.com/package/tool.less)                                                 | 805       |
-| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 711       |
+| [licence-keyboard](https://www.npmjs.com/package/licence-keyboard)                                   | 712       |
 | [cb-api](https://www.npmjs.com/package/cb-api)                                                       | 630       |
-| [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 560       |
+| [vuepress-theme-dog](https://www.npmjs.com/package/vuepress-theme-dog)                               | 561       |
 | [vuepress-plugin-demo-code2](https://www.npmjs.com/package/vuepress-plugin-demo-code2)               | 555       |
 | [vue-demo-run](https://www.npmjs.com/package/vue-demo-run)                                           | 507       |
 | [dm-byte](https://www.npmjs.com/package/dm-byte)                                                     | 473       |
@@ -37,7 +37,7 @@ NPM Download Statistics for ClearTax Open Source Projects. Updated Daily.
 | [plugin-active-header-links-tj](https://www.npmjs.com/package/plugin-active-header-links-tj)         | 222       |
 | [tiktok-danmaku-server](https://www.npmjs.com/package/tiktok-danmaku-server)                         | 192       |
 | [ola-plugin-sass](https://www.npmjs.com/package/ola-plugin-sass)                                     | 154       |
-| **Sum**                                                                                              | **39133** |
+| **Sum**                                                                                              | **39136** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
